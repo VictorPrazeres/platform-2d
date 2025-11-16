@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://beuaa7g1v0d1v"
-path="res://.godot/imported/Looking_Up (16 x 16).png-c3517713af109617b194c86b55efa45c.ctex"
+uid="uid://b1ueqm8hadwut"
+path="res://.godot/imported/Ducking (16 x 16).png-b772a6f5bc697b70fe0257d4ab22ba4b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/1 - Penguin/Looking_Up (16 x 16).png"
-dest_files=["res://.godot/imported/Looking_Up (16 x 16).png-c3517713af109617b194c86b55efa45c.ctex"]
+source_file="res://sprites/Penguin/Ducking (16 x 16).png"
+dest_files=["res://.godot/imported/Ducking (16 x 16).png-b772a6f5bc697b70fe0257d4ab22ba4b.ctex"]
 
 [params]
 

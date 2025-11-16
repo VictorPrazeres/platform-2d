@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://o7oe73r0mmmp"
-path="res://.godot/imported/Surprised (16 x 16).png-8bf26a1030e24105e58fb62248d04de3.ctex"
+uid="uid://46fmvp8dt402"
+path="res://.godot/imported/Swimming (16 x 16).png-3e92cbbffb8f74c7ccc4500e4925a16f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/1 - Penguin/Surprised (16 x 16).png"
-dest_files=["res://.godot/imported/Surprised (16 x 16).png-8bf26a1030e24105e58fb62248d04de3.ctex"]
+source_file="res://sprites/Penguin/Swimming (16 x 16).png"
+dest_files=["res://.godot/imported/Swimming (16 x 16).png-3e92cbbffb8f74c7ccc4500e4925a16f.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cvh6021oave2t"
-path="res://.godot/imported/Looking_Off (16 x 16).png-a6e041b667ac926b855090b23acb2a42.ctex"
+uid="uid://b4lsn5ks52g46"
+path="res://.godot/imported/Idle (16 x 16).png-01c76c3a737c6841b4fa39e136f25aa4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/1 - Penguin/Looking_Off (16 x 16).png"
-dest_files=["res://.godot/imported/Looking_Off (16 x 16).png-a6e041b667ac926b855090b23acb2a42.ctex"]
+source_file="res://sprites/Penguin/Idle (16 x 16).png"
+dest_files=["res://.godot/imported/Idle (16 x 16).png-01c76c3a737c6841b4fa39e136f25aa4.ctex"]
 
 [params]
 

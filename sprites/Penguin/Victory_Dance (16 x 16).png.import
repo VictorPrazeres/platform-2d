@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b1ueqm8hadwut"
-path="res://.godot/imported/Ducking (16 x 16).png-a23afab6a0dd96c96a976d698c661440.ctex"
+uid="uid://dc3y6n2ebfspb"
+path="res://.godot/imported/Victory_Dance (16 x 16).png-6498c9bdcc39bbf3f8d9a470815963a8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/1 - Penguin/Ducking (16 x 16).png"
-dest_files=["res://.godot/imported/Ducking (16 x 16).png-a23afab6a0dd96c96a976d698c661440.ctex"]
+source_file="res://sprites/Penguin/Victory_Dance (16 x 16).png"
+dest_files=["res://.godot/imported/Victory_Dance (16 x 16).png-6498c9bdcc39bbf3f8d9a470815963a8.ctex"]
 
 [params]
 

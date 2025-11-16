@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://crfnps84ffxhg"
-path="res://.godot/imported/Jump (16 x 16).png-367a068f09e8395139980e83bdb46e3c.ctex"
+uid="uid://4si4pnxogkvw"
+path="res://.godot/imported/Hurt (16 x 16).png-2787e9c60cb0e930c69454e4ee84c598.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/1 - Penguin/Jump (16 x 16).png"
-dest_files=["res://.godot/imported/Jump (16 x 16).png-367a068f09e8395139980e83bdb46e3c.ctex"]
+source_file="res://sprites/Penguin/Hurt (16 x 16).png"
+dest_files=["res://.godot/imported/Hurt (16 x 16).png-2787e9c60cb0e930c69454e4ee84c598.ctex"]
 
 [params]
 

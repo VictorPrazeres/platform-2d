@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://djvq0vvjnhmog"
-path="res://.godot/imported/Blink (16 x 16).png-f16f8a249b7afd4f4d8b7075ed6b2402.ctex"
+uid="uid://8ggjt12cptku"
+path="res://.godot/imported/Belly_Sliding (16 x 16).png-8f5647eb3b930e1be66355395051dc20.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/1 - Penguin/Blink (16 x 16).png"
-dest_files=["res://.godot/imported/Blink (16 x 16).png-f16f8a249b7afd4f4d8b7075ed6b2402.ctex"]
+source_file="res://sprites/Penguin/Belly_Sliding (16 x 16).png"
+dest_files=["res://.godot/imported/Belly_Sliding (16 x 16).png-8f5647eb3b930e1be66355395051dc20.ctex"]
 
 [params]
 

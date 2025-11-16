@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://4si4pnxogkvw"
-path="res://.godot/imported/Hurt (16 x 16).png-3ff826190d9ae522872907ea2f904fdf.ctex"
+uid="uid://c34jhg5n145up"
+path="res://.godot/imported/Waddling (16 x 16).png-43012049a7ca749f7a79bca10bb1670b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/1 - Penguin/Hurt (16 x 16).png"
-dest_files=["res://.godot/imported/Hurt (16 x 16).png-3ff826190d9ae522872907ea2f904fdf.ctex"]
+source_file="res://sprites/Penguin/Waddling (16 x 16).png"
+dest_files=["res://.godot/imported/Waddling (16 x 16).png-43012049a7ca749f7a79bca10bb1670b.ctex"]
 
 [params]
 

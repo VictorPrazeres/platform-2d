@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://wkw2tbl782rk"
-path="res://.godot/imported/Standing (16 x 16).png-1051f777e9fd0d3e5afd5ea7d8d716d0.ctex"
+uid="uid://djvq0vvjnhmog"
+path="res://.godot/imported/Blink (16 x 16).png-d0d976245cddfdeb5352cdd9483331c2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/1 - Penguin/Standing (16 x 16).png"
-dest_files=["res://.godot/imported/Standing (16 x 16).png-1051f777e9fd0d3e5afd5ea7d8d716d0.ctex"]
+source_file="res://sprites/Penguin/Blink (16 x 16).png"
+dest_files=["res://.godot/imported/Blink (16 x 16).png-d0d976245cddfdeb5352cdd9483331c2.ctex"]
 
 [params]
 

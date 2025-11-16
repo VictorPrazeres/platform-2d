@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c34jhg5n145up"
-path="res://.godot/imported/Waddling (16 x 16).png-2addbdc4b2d71453946e6ebeb8706a2f.ctex"
+uid="uid://dh65ph327otw4"
+path="res://.godot/imported/Lying_On_Ground (16 x 16).png-a27d18e52936e534512218135eab9a09.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/1 - Penguin/Waddling (16 x 16).png"
-dest_files=["res://.godot/imported/Waddling (16 x 16).png-2addbdc4b2d71453946e6ebeb8706a2f.ctex"]
+source_file="res://sprites/Penguin/Lying_On_Ground (16 x 16).png"
+dest_files=["res://.godot/imported/Lying_On_Ground (16 x 16).png-a27d18e52936e534512218135eab9a09.ctex"]
 
 [params]
 

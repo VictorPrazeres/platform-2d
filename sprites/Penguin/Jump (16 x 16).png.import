@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://34mtryw7swch"
-path="res://.godot/imported/Falling (16 x 16).png-11874a016daa6c38f126545921e014a8.ctex"
+uid="uid://crfnps84ffxhg"
+path="res://.godot/imported/Jump (16 x 16).png-8dc6bd7c10d83d228fdfbbfea3d102e1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/1 - Penguin/Falling (16 x 16).png"
-dest_files=["res://.godot/imported/Falling (16 x 16).png-11874a016daa6c38f126545921e014a8.ctex"]
+source_file="res://sprites/Penguin/Jump (16 x 16).png"
+dest_files=["res://.godot/imported/Jump (16 x 16).png-8dc6bd7c10d83d228fdfbbfea3d102e1.ctex"]
 
 [params]
 
