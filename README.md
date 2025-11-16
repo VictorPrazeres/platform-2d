@@ -102,7 +102,7 @@ Organização de cena
 Boas práticas no Godot
 
 🚧 Status do Projeto
-Atualmente em desenvolvimento contínuo para estudo e aprimoramento. Novas features serão adicionadas conforme avanço na playlist e nos estudos.
+Atualmente em desenvolvimento contínuo para estudo e aprimoramento. Novas features serão adicionadas conforme avanço nos estudos.
 
 🤝 Contribuições
 Este é um projeto pessoal de estudo, mas sugestões e PRs são bem-vindos! Caso queira contribuir, siga o padrão de commits e abra uma pull request.
@@ -111,4 +111,4 @@ Este é um projeto pessoal de estudo, mas sugestões e PRs são bem-vindos! Caso
 Este projeto está sob a licença MIT. Você pode usar, modificar e distribuir o código livremente.
 
 👤 Autor
-Victor Amaro
+Victor Prazeres
