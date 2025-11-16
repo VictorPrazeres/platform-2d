@@ -24,7 +24,7 @@ O foco deste projeto é **aprender boas práticas**, estruturar um código limpo
 
 * **Godot Engine 4.x**
 * **GDScript**
-* **Aseprite / Pixel art (opcional)**
+* **Aseprite / Pixel art 
 * **Git + Conventional Commits**
 
 ---
