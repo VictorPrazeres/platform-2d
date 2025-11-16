@@ -1,24 +1,18 @@
-[gd_scene load_steps=4 format=3 uid="uid://bx4rj5ac7e6nk"]
+[gd_scene load_steps=3 format=3 uid="uid://bx4rj5ac7e6nk"]
 
-[ext_resource type="Script" uid="uid://dpdoxppu23fh" path="res://scripts/player.gd" id="1_uwrxv"]
-
-[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_8cj0n"]
+[ext_resource type="PackedScene" uid="uid://djx1kmlebkits" path="res://entities/player.tscn" id="1_uwrxv"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_uwrxv"]
 size = Vector2(1016, 44)
 
 [node name="Game" type="Node2D"]
 
-[node name="CharacterBody2D" type="CharacterBody2D" parent="."]
-position = Vector2(214, 417)
-script = ExtResource("1_uwrxv")
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D"]
-shape = SubResource("CapsuleShape2D_8cj0n")
-
 [node name="StaticBody2D" type="StaticBody2D" parent="."]
-position = Vector2(480, 476)
+position = Vector2(371, 100)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
 shape = SubResource("RectangleShape2D_uwrxv")
 debug_color = Color(0.20165002, 0.6322727, 0.31412384, 0.41960785)
+
+[node name="Player" parent="." instance=ExtResource("1_uwrxv")]
+position = Vector2(44, 41)
