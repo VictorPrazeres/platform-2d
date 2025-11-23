@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b4vroo4u7hvod"
-path="res://.godot/imported/Terrain (16 x 16).png-d05a1bae57df4ddf9483bc088e218fc1.ctex"
+uid="uid://bk0jyv7sfcu4q"
+path="res://.godot/imported/Tropics.png-a554a36ccced13d0ae5ca3341574a225.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/Seasonal Tilesets/Winter World/Terrain (16 x 16).png"
-dest_files=["res://.godot/imported/Terrain (16 x 16).png-d05a1bae57df4ddf9483bc088e218fc1.ctex"]
+source_file="res://sprites/Seasonal Tilesets/Tropics/Tropics.png"
+dest_files=["res://.godot/imported/Tropics.png-a554a36ccced13d0ae5ca3341574a225.ctex"]
 
 [params]
 

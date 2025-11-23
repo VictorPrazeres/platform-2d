@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bk0jyv7sfcu4q"
-path="res://.godot/imported/Terrain (16 x 16).png-5d44e8c93230695b583cf53dce34f9c7.ctex"
+uid="uid://cxwtorv3cuxa"
+path="res://.godot/imported/Grassland.png-e2cdedf785522c0b7a837e7ea3013d31.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/Seasonal Tilesets/Tropics/Terrain (16 x 16).png"
-dest_files=["res://.godot/imported/Terrain (16 x 16).png-5d44e8c93230695b583cf53dce34f9c7.ctex"]
+source_file="res://sprites/Seasonal Tilesets/Grassland/Grassland.png"
+dest_files=["res://.godot/imported/Grassland.png-e2cdedf785522c0b7a837e7ea3013d31.ctex"]
 
 [params]
 

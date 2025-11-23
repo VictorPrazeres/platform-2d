@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bobujukw511jn"
-path="res://.godot/imported/Terrain (16 x 16).png-54c4aa2fd0f23a7ffbfa1ec02e545795.ctex"
+uid="uid://b4vroo4u7hvod"
+path="res://.godot/imported/WinterWorld.png-acf0b8fc4cce3ed171be60147f09b055.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/Seasonal Tilesets/Autumn Forest/Terrain (16 x 16).png"
-dest_files=["res://.godot/imported/Terrain (16 x 16).png-54c4aa2fd0f23a7ffbfa1ec02e545795.ctex"]
+source_file="res://sprites/Seasonal Tilesets/Winter World/WinterWorld.png"
+dest_files=["res://.godot/imported/WinterWorld.png-acf0b8fc4cce3ed171be60147f09b055.ctex"]
 
 [params]
 

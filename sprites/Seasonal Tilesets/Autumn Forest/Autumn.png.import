@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cxwtorv3cuxa"
-path="res://.godot/imported/Terrain (16 x 16).png-3ed30d928f72f96ee54050df6fabd746.ctex"
+uid="uid://bobujukw511jn"
+path="res://.godot/imported/Autumn.png-40fd4d8b1e69d2244e62c0cbc79a58af.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/Seasonal Tilesets/Grassland/Terrain (16 x 16).png"
-dest_files=["res://.godot/imported/Terrain (16 x 16).png-3ed30d928f72f96ee54050df6fabd746.ctex"]
+source_file="res://sprites/Seasonal Tilesets/Autumn Forest/Autumn.png"
+dest_files=["res://.godot/imported/Autumn.png-40fd4d8b1e69d2244e62c0cbc79a58af.ctex"]
 
 [params]
 
