@@ -26,45 +26,63 @@ scroll_scale = Vector2(0.1, 0.1)
 repeat_size = Vector2(288, 0)
 
 [node name="Sprite2D" type="Sprite2D" parent="Parallax/6"]
+texture_repeat = 2
 texture = ExtResource("3_bgcxa")
 centered = false
+region_enabled = true
+region_rect = Rect2(0, 0, 288, 208)
 
 [node name="5" type="Parallax2D" parent="Parallax"]
 scroll_scale = Vector2(0.2, 0.2)
 repeat_size = Vector2(288, 0)
 
 [node name="Sprite2D" type="Sprite2D" parent="Parallax/5"]
+texture_repeat = 2
 texture = ExtResource("4_qm7rg")
 centered = false
+region_enabled = true
+region_rect = Rect2(0, 0, 288, 208)
 
 [node name="4" type="Parallax2D" parent="Parallax"]
 scroll_scale = Vector2(0.3, 0.3)
 repeat_size = Vector2(288, 0)
 
 [node name="Sprite2D" type="Sprite2D" parent="Parallax/4"]
+texture_repeat = 2
 texture = ExtResource("5_0nboi")
 centered = false
+region_enabled = true
+region_rect = Rect2(0, 0, 288, 208)
 
 [node name="3" type="Parallax2D" parent="Parallax"]
 scroll_scale = Vector2(0.4, 0.4)
 repeat_size = Vector2(288, 0)
 
 [node name="Sprite2D" type="Sprite2D" parent="Parallax/3"]
+texture_repeat = 2
 texture = ExtResource("6_3knxq")
 centered = false
+region_enabled = true
+region_rect = Rect2(0, 0, 288, 208)
 
 [node name="2" type="Parallax2D" parent="Parallax"]
 scroll_scale = Vector2(0.5, 0.5)
 repeat_size = Vector2(288, 0)
 
 [node name="Sprite2D" type="Sprite2D" parent="Parallax/2"]
+texture_repeat = 2
 texture = ExtResource("7_ercsu")
 centered = false
+region_enabled = true
+region_rect = Rect2(0, 0, 288, 208)
 
 [node name="1" type="Parallax2D" parent="Parallax"]
 scroll_scale = Vector2(1.2, 1.2)
 repeat_size = Vector2(288, 0)
 
 [node name="Sprite2D" type="Sprite2D" parent="Parallax/1"]
+texture_repeat = 2
 texture = ExtResource("8_j3csf")
 centered = false
+region_enabled = true
+region_rect = Rect2(0, 0, 288, 208)
